@@ -1,0 +1,5 @@
+v 1.0.0
+d 'lcollapse': Stata collapse with preserved variable labels
+d 
+d 
+F lcollapse.ado
